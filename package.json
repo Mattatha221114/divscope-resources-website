@@ -1,0 +1,11 @@
+{
+  "name": "divscope-resources-site",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "format": "prettier --write \"*.html\" \"*.json\" \"*.js\" \"assets/*.css\" \"assets/*.js\""
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
